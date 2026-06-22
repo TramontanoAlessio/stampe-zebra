@@ -9,20 +9,20 @@
 
 ^FO90,160^FDRILEVAZIONE GIACENZA^FS
 
-^FO20,240^FDData: rtg^FS
+^FO20,240^FDData: sdc^FS
 
-^FO20,290^FDOra: gt^FS
+^FO20,290^FDOra: sdcsd^FS
 
-^FO20,340^FDTurno: rtg^FS
+^FO20,340^FDTurno: csdcsd^FS
 
-^FO20,390^FDZona: rtgg^FS
+^FO20,390^FDZona: cdsc^FS
 
 ^CF0,40
-^FO20,470^FDKg: rgt^FS
+^FO20,470^FDKg: sdcs^FS
 
 ^CF0,30
 ^FO20,620^FDOperatore:^FS
 
-^FO20,660^FDgrt^FS
+^FO20,660^FDsdcsd^FS
 
 ^XZ
